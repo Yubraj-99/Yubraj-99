@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yubraj tamang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yubraj tamang" height="30" width="40" /></a>
+<a href="https://x.com/YubrazT?t=hVED70eg2h-wSFVuFvERWw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yubraj tamang" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yubraj-tamang-b2262a285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yubraj tamang" height="30" width="40" /></a>
-<a href="[https://instagram.com/tyubraz](https://www.instagram.com/tyubraz?igsh=Zmx6bGFxNDVzZ3hs)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyubraz" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tyubraz?igsh=Zmx6bGFxNDVzZ3hs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyubraz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
