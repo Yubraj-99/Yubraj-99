@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yubraj Tamang</h1>
-<h3 align="center">Think before you click |Be aware Be safe !</h3>
+<h3 align="center">Be aware Be safe !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yubraj-99&label=Profile%20views&color=0e75b6&style=flat" alt="yubraj-99" /> </p>
 
