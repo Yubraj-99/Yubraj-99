@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yubraj Tamang</h1>
 <h3 align="center">Be aware Be safe !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yubraj-99&label=Profile%20views&color=0e75b6&style=flat" alt="yubraj-99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yubraj-99&label=Profile%20views&color=0e75b6&style=flat" alt="Yubraj-99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yubraj tamang" target="blank"><img src="https://img.shields.io/twitter/follow/yubraj tamang?logo=twitter&style=for-the-badge" alt="yubraj tamang" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Yubraz Tamang" target="blank"><img src="https://img.shields.io/twitter/follow/Yubraz Tamang?logo=twitter&style=for-the-badge" alt="Yubraz Tamang" /></a> </p>
 
 - 🌱 I’m currently learning **Cyber security, Ethical hacking, Application security & penetration testing**
 
